@@ -1,0 +1,2 @@
+# Gobblet
+Gobblet strategy
