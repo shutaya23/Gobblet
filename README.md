@@ -1,4 +1,4 @@
 # Gobblet
  Strategy programming
  C
-  ![image](picture or gif url)
+  ![image](https://github.com/shutaya23/Gobblet/blob/main/sample.png)
