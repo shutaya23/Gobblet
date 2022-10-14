@@ -1,2 +1,3 @@
 # Gobblet
-Gobblet strategy
+ Strategy programming
+ C
